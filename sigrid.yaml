@@ -1,0 +1,17 @@
+languages:
+- name: "Css"
+- name: "Djangotemplates"
+- name: "Docker"
+- name: "Javascript"
+- name: "Plsql"
+- name: "Python"
+- name: "Robot"
+- name: "Sass"
+- name: "Script"
+
+dependencychecker:
+  blocklist:
+  - "NONE"
+
+thirdpartyfindings:
+  enabled: true
